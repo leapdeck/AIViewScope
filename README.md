@@ -7,10 +7,10 @@ Estimate GPU RAM needs and explore the world of AI models—all in one place. Wh
 
 ## 🚀 Key Features
 
-📊 **Accurate GPU RAM Estimation**  
+📊 ** GPU RAM Estimates **  
 Input model specs and instantly calculate the estimated GPU RAM required for smooth operation.
 
-📚 **Comprehensive Model Catalog**  
+📚 ** AI Model Catalog**  
 Browse a list of AI models with detailed specifications, performance metrics, and use cases.
 
 🆕 **Stay Current**  
