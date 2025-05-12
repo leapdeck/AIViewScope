@@ -1,5 +1,5 @@
 # 🔭⚙️ AI Model Viewscope  
-Estimate GPU RAM needs and explore the world of AI models—all in one place. Whether you're deploying a model for production or experimenting in a lab, this tool helps you check through various models. Discover, compare, and stay ahead with model specs and performance insights.
+Estimate GPU RAM needs and explore the world of AI models—all in one place. Whether you're deploying a model for production or trying them on your desktop, this tool helps you check through various models. Discover, compare, and stay ahead with model specs and performance insights.
 
 <p align="center">
   <img alt="AIViewScope" title="AIViewScope" src="screenshots/AIVIewScopeScroll1.gif" width=300>
