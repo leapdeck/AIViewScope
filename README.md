@@ -25,6 +25,11 @@ Download on the App Store
 
 AI Model Viewscope is under the MIT license. See the accompanying [LICENSE](LICENSE) for more information.
 
+##  🔧 Build
+Can build the app with a Mac station, Xcode and a free developer account : [!Create a Free Apple Developer account] (https://www.appypie.com/blog/how-to-create-a-free-apple-developer-account)
+
+Then Xcode will let you side-load to your iPhone. When you’ve forked the repo to make your own app, you can do a yearly subscription as an Apple Developer to publish to the Appstore. 
+
 ## 🤝 Contributing
 
 We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
