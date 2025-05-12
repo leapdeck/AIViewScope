@@ -19,7 +19,7 @@ Keep up with the latest model releases, updates, and performance benchmarks in t
 ## 📱 Download for iOS
 
 Download on the App Store  
-[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)(https://apps.apple.com/us/app/a-i-viewscope/id6742653868)
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/a-i-viewscope/id6742653868)
 
 ## 📝 License
 
