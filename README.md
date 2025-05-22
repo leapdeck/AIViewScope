@@ -37,7 +37,7 @@ Cursor A.I. coding tool :
 [Cursor](https://www.cursor.com)
 
 Windsurf A.I. coding tool : 
-[Windurf](https://windsurf.com)
+[Windsurf](https://windsurf.com)
 
 ## 🤝 Contributing
 
