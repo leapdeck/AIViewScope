@@ -45,4 +45,4 @@ We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help imp
 
 ## 📬 Contact
 
-For feedback, questions, or collaboration opportunities, feel free to message for assistance.
+For feedback or questions feel free to [message](mailto:leapdeck1@gmail.com) for assistance.
