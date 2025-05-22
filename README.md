@@ -30,6 +30,15 @@ Can build the app with a Mac station, Xcode and a free developer account : [Crea
 
 Then Xcode will let you side-load to your iPhone. When you’ve forked the repo to make your own app, you can do a yearly subscription as an Apple Developer to publish to the Appstore. 
 
+## 📚 Coding Editors 
+To develop this app with your own topic or theme, there are a couple of A.I. tools to assist you along the way.  Cursor and Windsurf are A.I. based coding tools you can pull up alongside (vibe) your coding application like Xcode or Android Studio to add more screens, buttons, field elements and features for your app. 
+
+Cursor A.I. coding tool : 
+[Cursor](https://www.cursor.com)
+
+Windsurf A.I. coding tool : 
+[Windurf](https://windsurf.com)
+
 ## 🤝 Contributing
 
 We welcome 👩🏾‍💻👨🏾‍💻 additions! If you’d like to help improve or expand this project, feel free to open an issue or submit a pull request.
